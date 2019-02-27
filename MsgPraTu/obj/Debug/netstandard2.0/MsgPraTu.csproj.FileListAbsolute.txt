@@ -1,0 +1,12 @@
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MsgPraTu.csprojAssemblyReference.cache
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MsgPraTu.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MsgPraTu.AssemblyInfoInputs.cache
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MsgPraTu.AssemblyInfo.cs
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/bin/Debug/netstandard2.0/MsgPraTu.deps.json
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/bin/Debug/netstandard2.0/MsgPraTu.dll
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/bin/Debug/netstandard2.0/MsgPraTu.pdb
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MsgPraTu.dll
+/Users/aluno/Projects/MsgPraTu/MsgPraTu/obj/Debug/netstandard2.0/MsgPraTu.pdb

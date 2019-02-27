@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MsgPraTu"
+             x:Class="MsgPraTu.MainPage">
+    
+    <StackLayout Padding="5,10">
+        <!-- Place new controls here -->
+        
+        <Label Text="Pensador"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               FontAttributes="Italic"
+               FontSize="20"
+               x:Name="label_Op"
+               
+               />
+        
+        
+        <Button  
+               Text="Click"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               FontSize="25"
+               FontAttributes="Bold"
+               Clicked="EscolherOpcao"
+               x:Name="button_Clica"
+        
+               />
+    </StackLayout>
+</ContentPage>
